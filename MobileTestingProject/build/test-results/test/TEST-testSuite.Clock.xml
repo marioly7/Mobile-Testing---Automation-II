@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuite.Clock" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-15T02:36:45" hostname="DESKTOP-6LCD9KO" time="16.829">
+  <properties/>
+  <testcase name="createAlarm()" classname="testSuite.Clock" time="16.829"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
